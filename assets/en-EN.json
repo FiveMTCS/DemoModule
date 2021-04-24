@@ -1,0 +1,5 @@
+{
+	"threadCountdown": "This thread will be deleted in {countdown} seconds. Id : {threadId}",
+	"deletingThread": "Deleting thread...",
+	"testKey": "This message is automatically translated with the configured language {language}. If the configuration for this language doesn't exist, TCS tries to have it in english."
+}

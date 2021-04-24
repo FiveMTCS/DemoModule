@@ -1,0 +1,6 @@
+{
+	"version": "1.0.0",
+	"buildRoot": "./build",
+	"hasAssets": true,
+	"assetsRoot": "./assets"
+}
