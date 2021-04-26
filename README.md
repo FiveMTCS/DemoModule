@@ -1,5 +1,7 @@
 # Modules
 
+![core](https://user-images.githubusercontent.com/61824574/116143458-77a0af00-a6db-11eb-816a-a155298f8dd1.jpg)
+
 ## Presentation
 
 TCS uses modules, which are "scripts" that depends on the core. They can be directly loaded in this directory (`modules/`) or with another resource.

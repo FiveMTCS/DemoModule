@@ -11,5 +11,6 @@ loadTcsModuleInfos(() => {
 		moduleType: TcsModuleTypes.SYSTEM,
 		moduleName: 'demo',
 		version: '1.0.0',
+		git: 'FiveMTCS/DemoModule',
 	};
 });
